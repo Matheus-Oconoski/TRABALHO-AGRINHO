@@ -1,0 +1,28 @@
+header{
+    background-color: blue;
+    margin: 0px;
+    text-align: center;
+
+}
+
+
+body{
+    background-color: rgb(255, 65, 65);
+}
+
+.elemento{
+    text-align: center;
+    width: 1000px;
+    height: 550px;
+    background-color: rgb(130, 255, 157);
+    border: 1px solid black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 4850px;
+    background-color: aqua;
+}
