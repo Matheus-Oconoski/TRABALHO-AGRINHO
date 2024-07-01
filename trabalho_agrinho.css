@@ -17,9 +17,13 @@ body{
     color: rgb(255, 255, 255);
 }
 
-.elemento{
+h1{
     text-align: center;
-    width: 850px;
+}
+
+.elemento{
+    position: relative;
+    width: 70%;
     height: 450px;
     background-color: #008000;
     border: 1px solid #008000;
@@ -39,8 +43,28 @@ h1{
 }
 
 img{
-    margin: 15px;
-    padding-right: 470px;
-    width: 270px;
-    height: 350px;
+    margin: 2% 4% 4% 5%;
+    width: 33%;
+    height: 78%;
+}
+
+h3{
+    display: inline-block;
+    position: absolute;
+    right: 47%;
+    top: 15%;
+}
+
+.p2{
+    display: inline-block;
+    position: absolute;
+    right: 47%;
+    top: 20%;
+}
+
+.p3{
+    display: inline-block;
+    position: absolute;
+    right: 47%;
+    top: 25%;
 }
