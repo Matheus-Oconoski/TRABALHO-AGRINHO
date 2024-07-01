@@ -1,12 +1,18 @@
 header{
     background-color: blue;
-    margin: 0px;
     text-align: center;
-
+    background-image: url(imagemtopo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90px;
 }
 
-
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
+    color: rgb(255, 0, 0);
     background-color: rgb(255, 65, 65);
 }
 
@@ -25,4 +31,7 @@ body{
     align-items: center;
     height: 4850px;
     background-color: aqua;
+}
+h1{
+ font-style: oblique;
 }
