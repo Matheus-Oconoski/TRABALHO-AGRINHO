@@ -1,27 +1,28 @@
 header{
-    background-color: blue;
+    background-color: #008000;
     text-align: center;
-    background-image: url(imagemtopo.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 90px;
+    height: 60px;
+}
+
+header h1{
+padding-top: 10px;
 }
 
 *{
     margin: 0;
     padding: 0;
 }
+
 body{
-    color: rgb(255, 0, 0);
-    background-color: rgb(255, 65, 65);
+    color: rgb(255, 255, 255);
 }
 
 .elemento{
     text-align: center;
-    width: 1000px;
-    height: 550px;
-    background-color: rgb(130, 255, 157);
-    border: 1px solid black;
+    width: 850px;
+    height: 450px;
+    background-color: #008000;
+    border: 1px solid #008000;
 }
 
 .container{
@@ -29,9 +30,17 @@ body{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    height: 4850px;
-    background-color: aqua;
+    height: 5000px;
+    background-color: #b6b6b6;
 }
+
 h1{
- font-style: oblique;
+    font-style: oblique;
+}
+
+img{
+    margin: 15px;
+    padding-right: 470px;
+    width: 270px;
+    height: 350px;
 }
