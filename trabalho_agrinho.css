@@ -23,7 +23,7 @@ h1{
 
 .elemento{
     position: relative;
-    width: 45%;
+    width: 48%;
     height: 400px;
     background-color: #00a000;
     border: 1px solid #00a000;
@@ -31,7 +31,7 @@ h1{
 
 .elemento2{
     position: relative;
-    width: 45%;
+    width: 48%;
     height: 400px;
     background-color: #008000;
     border: 1px solid #008000;
@@ -39,7 +39,7 @@ h1{
 
 .elemento3{
     position: relative;
-    width: 45%;
+    width: 48%;
     height: 400px;
     background-color: #008000;
     border: 1px solid #008000;
@@ -100,125 +100,125 @@ h3{
 .p3{
     display: inline-block;
     position: absolute;
-    right: 7%;
+    right: 6.7%;
     top: 30%;
 }
 
 .p4{
     display: inline-block;
     position: absolute;
-    right: 6%;
+    right: 5.7%;
     top: 40%;
 }
 
 .p5{
     display: inline-block;
     position: absolute;
-    right: 6%;
+    right: 5.7%;
     top: 45%;
 }
 
 .p6{
     display: inline-block;
     position: absolute;
-    right: 30%;
+    right: 28%;
     top: 50%;
 }
 
 .p7{
     display: inline-block;
     position: absolute;
-    right: 10%;
+    right: 9.5%;
     top: 55%;
 }
 
 .p8{
     display: inline-block;
     position: absolute;
-    right: 18%;
+    right: 17.3%;
     top: 60%;
 }
 
 .p9{
     display: inline-block;
     position: absolute;
-    right: 6%;
+    right: 5.8%;
     top: 70%;
 }
 
 .p10{
     display: inline-block;
     position: absolute;
-    right: 19%;
+    right: 17.8%;
     top: 75%;
 }
 
 .ep1{
     display: inline-block;
     position: absolute;
-    right: 2%;
+    right: 3%;
     top: 20%;
 }
 
 .ep2{
     display: inline-block;
     position: absolute;
-    right:3%;
+    right:3.5%;
     top: 25%;
 }
 
 .ep3{
     display: inline-block;
     position: absolute;
-    right: 49%;
+    right: 47%;
     top: 30%;
 }
 
 .ep4{
     display: inline-block;
     position: absolute;
-    right: 7%;
+    right: 7.4%;
     top: 40%;
 }
 
 .ep5{
     display: inline-block;
     position: absolute;
-    right: 7.5%;
+    right: 8%;
     top: 45%;
 }
 
 .ep6{
     display: inline-block;
     position: absolute;
-    right: 47%;
+    right: 44.8%;
     top: 50%;
 }
 
 .ep7{
     display: inline-block;
     position: absolute;
-    right: 14%;
+    right: 13.7%;
     top: 55%;
 }
 
 .ep8{
     display: inline-block;
     position: absolute;
-    right: 23.5%;
+    right: 22.8%;
     top: 60%;
 }
 
 .ep9{
     display: inline-block;
     position: absolute;
-    right: 7.5%;
+    right: 8%;
     top: 70%;
 }
 
 .ep10{
     display: inline-block;
     position: absolute;
-    right: 22.3%;
+    right: 22%;
     top: 75%;
 }
