@@ -1,5 +1,5 @@
 header{
-    background-color: #00a000;
+    background-color: #dfc223;
     text-align: center;
     height: 60px;
 }
@@ -25,24 +25,24 @@ h1{
     position: relative;
     width: 48%;
     height: 400px;
-    background-color: #00a000;
-    border: 1px solid #00a000;
+    background-color: #ffffff94;
+    border: 1px solid #ffffff94;
 }
 
 .elemento2{
     position: relative;
     width: 48%;
     height: 400px;
-    background-color: #008000;
-    border: 1px solid #008000;
+    background-color: #ffffff94;
+    border: 1px solid #ffffff94;
 }
 
 .elemento3{
     position: relative;
     width: 48%;
     height: 400px;
-    background-color: #008000;
-    border: 1px solid #008000;
+    background-color: #ffffff94;
+    border: 1px solid #ffffff94;
 }
 
 .container{
@@ -51,7 +51,7 @@ h1{
     justify-content: space-around;
     align-items: center;
     height: 450px;
-    background-color: #b6b6b6;
+    background-color: #d8b150;
 }
 
 .container2{
@@ -60,7 +60,7 @@ h1{
     justify-content: space-around;
     align-items: center;
     height: 450px;
-    background-color: #b6b6b6;
+    background-color: #d8b150;
 }
 
 .container3{
@@ -69,7 +69,7 @@ h1{
     justify-content: space-around;
     align-items: center;
     height: 450px;
-    background-color: #b6b6b6;
+    background-color: #d8b150;
 }
 
 
