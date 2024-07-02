@@ -78,77 +78,77 @@ h1{
 }
 
 img{
-    margin: 2% 4% 4% 5%;
+    margin: 4% 4% 4% 5%;
     width: 35%;
-    height: 75%;
+    height: 70%;
 }
 
 h3{
     display: inline-block;
     position: absolute;
     right: 6%;
-    top: 15%;
+    top: 20%;
 }
 
 .p2{
     display: inline-block;
     position: absolute;
     right: 7%;
-    top: 20%;
+    top: 25%;
 }
 
 .p3{
     display: inline-block;
     position: absolute;
     right: 7%;
-    top: 25%;
+    top: 30%;
 }
 
 .p4{
     display: inline-block;
     position: absolute;
     right: 6%;
-    top: 35%;
+    top: 40%;
 }
 
 .p5{
     display: inline-block;
     position: absolute;
     right: 6%;
-    top: 40%;
+    top: 45%;
 }
 
 .p6{
     display: inline-block;
     position: absolute;
     right: 30%;
-    top: 45%;
+    top: 50%;
 }
 
 .p7{
     display: inline-block;
     position: absolute;
     right: 10%;
-    top: 50%;
+    top: 55%;
 }
 
 .p8{
     display: inline-block;
     position: absolute;
     right: 18%;
-    top: 55%;
+    top: 60%;
 }
 
 .p9{
     display: inline-block;
     position: absolute;
     right: 6%;
-    top: 65%;
+    top: 70%;
 }
 
 .p10{
     display: inline-block;
     position: absolute;
     right: 19%;
-    top: 70%;
+    top: 75%;
 }
