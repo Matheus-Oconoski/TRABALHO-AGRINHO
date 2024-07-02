@@ -1,5 +1,5 @@
 header{
-    background-color: #008000;
+    background-color: #00a000;
     text-align: center;
     height: 60px;
 }
@@ -14,7 +14,7 @@ padding-top: 10px;
 }
 
 body{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 h1{
@@ -25,8 +25,8 @@ h1{
     position: relative;
     width: 45%;
     height: 400px;
-    background-color: #008000;
-    border: 1px solid #008000;
+    background-color: #00a000;
+    border: 1px solid #00a000;
 }
 
 .elemento2{
@@ -150,5 +150,75 @@ h3{
     display: inline-block;
     position: absolute;
     right: 19%;
+    top: 75%;
+}
+
+.ep1{
+    display: inline-block;
+    position: absolute;
+    right: 2%;
+    top: 20%;
+}
+
+.ep2{
+    display: inline-block;
+    position: absolute;
+    right:3%;
+    top: 25%;
+}
+
+.ep3{
+    display: inline-block;
+    position: absolute;
+    right: 49%;
+    top: 30%;
+}
+
+.ep4{
+    display: inline-block;
+    position: absolute;
+    right: 7%;
+    top: 40%;
+}
+
+.ep5{
+    display: inline-block;
+    position: absolute;
+    right: 7.5%;
+    top: 45%;
+}
+
+.ep6{
+    display: inline-block;
+    position: absolute;
+    right: 47%;
+    top: 50%;
+}
+
+.ep7{
+    display: inline-block;
+    position: absolute;
+    right: 14%;
+    top: 55%;
+}
+
+.ep8{
+    display: inline-block;
+    position: absolute;
+    right: 23.5%;
+    top: 60%;
+}
+
+.ep9{
+    display: inline-block;
+    position: absolute;
+    right: 7.5%;
+    top: 70%;
+}
+
+.ep10{
+    display: inline-block;
+    position: absolute;
+    right: 22.3%;
     top: 75%;
 }
