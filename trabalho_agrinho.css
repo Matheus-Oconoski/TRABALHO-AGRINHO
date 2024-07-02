@@ -103,3 +103,52 @@ h3{
     right: 7%;
     top: 25%;
 }
+
+.p4{
+    display: inline-block;
+    position: absolute;
+    right: 6%;
+    top: 35%;
+}
+
+.p5{
+    display: inline-block;
+    position: absolute;
+    right: 6%;
+    top: 40%;
+}
+
+.p6{
+    display: inline-block;
+    position: absolute;
+    right: 30%;
+    top: 45%;
+}
+
+.p7{
+    display: inline-block;
+    position: absolute;
+    right: 10%;
+    top: 50%;
+}
+
+.p8{
+    display: inline-block;
+    position: absolute;
+    right: 18%;
+    top: 55%;
+}
+
+.p9{
+    display: inline-block;
+    position: absolute;
+    right: 6%;
+    top: 65%;
+}
+
+.p10{
+    display: inline-block;
+    position: absolute;
+    right: 19%;
+    top: 70%;
+}
